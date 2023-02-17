@@ -6,24 +6,24 @@
 
 Создать приложение для ввода пароля из командной строки и сравнения его со строкой-образцом.
 
-[ ./lab1_1_4/ ](https://github.com/aivi4th/bigdata/edit/master/lab1_1_4/src/Main.java)
+[ ./lab1/lab1_1_4/ ](https://github.com/aivi4th/bigdata/edit/master/lab1/lab1_1_4/src/Main.java)
 
 ### Вариант 1 - Задание 5:
 
 Создать программу ввода целых чисел как аргументов командной строки, подсчета их суммы (произведения) и вывода результата на консоль. 
 
-[ ./lab1_1_5/ ](https://github.com/aivi4th/bigdata/edit/master/lab1_1_5/src/Main.java)
+[ ./lab1/lab1_1_5/ ](https://github.com/aivi4th/bigdata/edit/master/lab1/lab1_1_5/src/Main.java)
 
 ### Вариант 2 - Задание 10:
 Ввести с консоли n целых чисел и поместить их в массив. На консоль вывести:
 Числа в порядке убывания частоты встречаемости чисел.
 
-[ ./lab1_2_10/ ](https://github.com/aivi4th/bigdata/edit/master/lab1_2_10/src/Main.java)
+[ ./lab1/lab1_2_10/ ](https://github.com/aivi4th/bigdata/edit/master/lab1/lab1_2_10/src/Main.java)
 
 ### Вариант 2 - Задание 11:
 
 Ввести с консоли n целых чисел и поместить их в массив. На консоль вывести:
 Счастливые числа.
 
-[ ./lab1_2_11/ ](https://github.com/aivi4th/bigdata/edit/master/lab1_2_11/src/Main.java)
+[ ./lab1/lab1_2_11/ ](https://github.com/aivi4th/bigdata/edit/master/lab1/lab1_2_11/src/Main.java)
 
