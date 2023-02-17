@@ -18,5 +18,5 @@
 Ввести с консоли n целых чисел и поместить их в массив. На консоль вывести:
 Числа в порядке убывания частоты встречаемости чисел.
 
-[ ./lab1_2_10/ ](https://github.com/aivi4th/bigdata/edit/master/lab1_1_5/src/Main.java)
+[ ./lab1_2_10/ ](https://github.com/aivi4th/bigdata/edit/master/lab1_2_10/src/Main.java)
 
